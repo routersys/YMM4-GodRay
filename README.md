@@ -6,6 +6,8 @@
 
 YMM4（YukkuriMovieMaker v4）で、幻想的な光の筋（ゴッドレイ）を映像に追加できるエフェクトプラグインです。
 
+![image](https://github.com/routersys/YMM4-GodRay/blob/main/GodRay.png)
+
 ---
 
 ### 概要
